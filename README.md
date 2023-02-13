@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as a Software Engineer at [Glovo](https://glovoapp.com/)
 - 🇦🇷 I'm from Argentina
-- 💬 Ping me about **java**, **kotlin**, **nodejs**, **golang**, **rust**, **solidity**
+- 💬 Ping me about **golang**, **rust**, **solidity**, **nodejs**, **kotlin** and **java**.
 
 #### Contact me
 <a href="https://twitter.com/0xJMC">
