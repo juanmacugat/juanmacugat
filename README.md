@@ -2,7 +2,7 @@
 
 #### I'm a Senior Software Engineer working from Barcelona, Spain.
 
-- 🔭 I’m currently working as a Software Engineer at [Glovo](https://glovoapp.com/)
+- 🚀 I’m currently working as a Software Engineer at [Glovo](https://glovoapp.com/)
 - 🇦🇷 I'm from Argentina
 - 📖 If you have any book to recommend, also feel free to drop me a message.
 - 💬 Ping me about **ddd**, **golang**, **rust**, **wasm**, **solidity**, **nodejs**, **kotlin** and **java**.
