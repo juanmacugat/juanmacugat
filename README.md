@@ -4,8 +4,8 @@
 
 - 🚀 I’m currently working as an Engineering Manager at [Bitpanda](https://bitpanda.com/) 🐼
 - 🇦🇷 I'm from Argentina
-- 📖 If you have any book to recommend, also feel free to drop me a message.
 - 💬 Ping me about **ddd**, **golang**, **rust**, **wasm**, **solidity**, **nodejs**, **kotlin** and **java**.
+- 📖 If you have any book to recommend, also feel free to drop me a message.
 
 #### Contact me
 <a href="https://twitter.com/0xJMC">
