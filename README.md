@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Software Engineer working from Barcelona, Spain.
+#### I'm a Software Engineer based in Barcelona, Spain.
 
 - 🇦🇷 I'm from Argentina
 - 💬 Ping me about **ddd**, **golang**, **rust**, **wasm**, **solidity**, **nodejs**, **kotlin** and **java**.
